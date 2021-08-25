@@ -1,7 +1,8 @@
 # Welcome to Mark2021 GitHub Pages
 
 ## p5.js Projects
- - [Ball 2D Physics](https://mark2021-github.github.io/Ball2D-Physics/) 
+- [Find Prime Numbers using Eratosthenes' sieve] (https://mark2021-github.github.io/PrimeNumber/)
+- [Ball 2D Physics](https://mark2021-github.github.io/Ball2D-Physics/) 
 
 ```
 ### Ball Physics (2D) - 2차원 공 물리 시뮬레이션: 중력가속도, 탄성, 마찰력, 충돌 벡터 
