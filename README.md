@@ -1,7 +1,9 @@
-# Welcome to Mark2021 GitHub Pages
+# Welcome to 중학 수학/물리 프로젝트 GitHub Pages
 
-## p5.js Projects
+## 중학 수학 
 - [Find Prime Numbers using Eratosthenes' sieve](https://mark2021-github.github.io/PrimeNumber/)
+
+## 중학 물리 프로젝트
 - [Ball 2D Physics](https://mark2021-github.github.io/Ball2D-Physics/) 
 
 ```
