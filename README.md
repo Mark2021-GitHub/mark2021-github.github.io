@@ -1,10 +1,13 @@
-# Welcome to 중학 수학/물리 프로젝트 GitHub Pages
+# Welcome to 중학 수학/중학 물리/중학 화확 프로젝트 GitHub Pages
 
-## 중학 수학 
+## 중학 수학 프로젝트
 - [Find Prime Numbers using Eratosthenes' sieve](https://mark2021-github.github.io/PrimeNumber/)
 
 ## 중학 물리 프로젝트
 - [Ball 2D Physics](https://mark2021-github.github.io/Ball2D-Physics/) 
+
+## 중학 화확 프로젝트
+
 
 ```
 ### Ball Physics (2D) - 2차원 공 물리 시뮬레이션: 중력가속도, 탄성, 마찰력, 충돌 벡터 
