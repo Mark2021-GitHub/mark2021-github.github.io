@@ -1,7 +1,7 @@
 # Welcome to Mark2021 GitHub Pages
 
 ## p5.js Projects
-- [Find Prime Numbers using Eratosthenes' sieve] (https://mark2021-github.github.io/PrimeNumber/)
+- [Find Prime Numbers using Eratosthenes' sieve](https://mark2021-github.github.io/PrimeNumber/)
 - [Ball 2D Physics](https://mark2021-github.github.io/Ball2D-Physics/) 
 
 ```
