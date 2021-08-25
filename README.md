@@ -1,4 +1,4 @@
-# Welcome to 중학 수학/중학 과학 프로젝트 GitHub Pages
+# 중학 수학/중학 과학 프로젝트 GitHub Pages
 
 ## 중학 수학 프로젝트
 - [Find Prime Numbers using Eratosthenes' sieve](https://mark2021-github.github.io/PrimeNumber/)
