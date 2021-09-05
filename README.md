@@ -4,7 +4,8 @@
 - [2차원 자유낙하 입자 물리 시뮬레이션: Ball 2D Physics](https://mark2021-github.github.io/Ball2D-Physics/) 
 
 ## Elements
-- [원소 이름:[기호] 영어/라틴어 한글이름(관용어)](https://mark2021-github.github.io/Elements/)
+- [중학 화학 주요 원소 이름 듣고 따라하기](https://mark2021-github.github.io/Elements/)
+- [듣고, 보고 이해하는 주기율표](https://mark2021-github.github.io/PeriodicTable/) 
 
 ## Find Prime Numbers using Eratosthenes’ sieve 
  - [에라토스테네스의 체로 소수 찾기](https://cw-math.github.io/PrimeNumber/)
