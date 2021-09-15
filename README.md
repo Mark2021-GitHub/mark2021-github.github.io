@@ -5,7 +5,7 @@
 
 ## Elements
 - [중학 화학 주요 원소 이름 듣고 따라하기](https://mark2021-github.github.io/Elements/)
-- [듣고, 보고 이해하는 주기율표](https://mark2021-github.github.io/PeriodicTable/) 
+- [주기율표(Periodic Table) 랑 친해지기](https://mark2021-github.github.io/PeriodicTable/) 
 
 ## Find Prime Numbers using Eratosthenes’ sieve 
  - [에라토스테네스의 체로 소수 찾기](https://cw-math.github.io/PrimeNumber/)
